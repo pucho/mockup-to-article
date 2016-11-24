@@ -4,6 +4,13 @@ You've learned a lot about web development so far. I want you to take a moment t
   * What has been difficult?
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
 
+
 ---
 
-Your response goes here!
+I've been working with web dev for 2 years now :P
+Creating the html after a mockup is the easiest part probably, while,
+grasping all the concepts related to javascript and how it relates
+to the DOM has been the most difficult.
+
+Regarding the first project I can't really say because this was added
+after I finished that course and I did it months ago :P
